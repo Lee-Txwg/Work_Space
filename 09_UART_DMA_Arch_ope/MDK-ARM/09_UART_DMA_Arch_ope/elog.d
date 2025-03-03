@@ -1,0 +1,9 @@
+09_uart_dma_arch_ope\elog.o: ..\Middlewares\EasyLogger\src\elog.c
+09_uart_dma_arch_ope\elog.o: ..\Middlewares\EasyLogger\inc\elog.h
+09_uart_dma_arch_ope\elog.o: ..\Middlewares\EasyLogger\inc\elog_cfg.h
+09_uart_dma_arch_ope\elog.o: D:\03_Software\02_Development_Tools\01_MCU\02_MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+09_uart_dma_arch_ope\elog.o: D:\03_Software\02_Development_Tools\01_MCU\02_MDK\Core\ARM\ARMCC\Bin\..\include\stddef.h
+09_uart_dma_arch_ope\elog.o: D:\03_Software\02_Development_Tools\01_MCU\02_MDK\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+09_uart_dma_arch_ope\elog.o: D:\03_Software\02_Development_Tools\01_MCU\02_MDK\Core\ARM\ARMCC\Bin\..\include\string.h
+09_uart_dma_arch_ope\elog.o: D:\03_Software\02_Development_Tools\01_MCU\02_MDK\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+09_uart_dma_arch_ope\elog.o: D:\03_Software\02_Development_Tools\01_MCU\02_MDK\Core\ARM\ARMCC\Bin\..\include\stdio.h
